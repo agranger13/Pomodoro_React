@@ -1,0 +1,35 @@
+.main {
+  text-align: center;
+}
+
+.count-down{
+  font-size: 35px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.color-red{
+  color : red;
+}
+
+.color-green{
+  color : green;
+}
+
+.time-controllers{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.controller{
+  width: 200px;
+}
+
+.sound-on{
+  background-color: green;
+}
+
+.sound-off{
+  background-color: red;
+}
